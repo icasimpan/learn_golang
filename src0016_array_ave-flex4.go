@@ -12,14 +12,7 @@ func main() {
   x[3] = 82
   x[4] = 83
 */
-  //x := [5]float64{ 98, 93, 77, 82, 83 }
-  x := [5]float64 {
-    98,
-    93,
-    77,
-    82,
-    83,
-  }
+  x := [5]float64{ 98, 93, 77, 82, 83 }
   var total float64;
 
   for _, value := range x {
