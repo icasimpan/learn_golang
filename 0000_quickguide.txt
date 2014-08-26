@@ -3,3 +3,5 @@
 * Test go like shell script - go run <src> 
 * Quick creation of go scr  - 0000_create_tpl.sh <go_src>
 * Quick documentation       - say for fmt Println "godoc fmt Println" 
+* Quick tutorials           - https://gobyexample.com
+
