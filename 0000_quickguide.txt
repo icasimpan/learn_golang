@@ -1,4 +1,5 @@
-1. Install go                - http://golang.org/doc/install
-2. Compile go code           - go build <src>
-3. Test go like shell script - go run <src> 
-4. Quick creation of go scr  - 0000_create_tpl.sh <go_src>
+* Install go                - http://golang.org/doc/install
+* Compile go code           - go build <src>
+* Test go like shell script - go run <src> 
+* Quick creation of go scr  - 0000_create_tpl.sh <go_src>
+* Quick documentation       - say for fmt Println "godoc fmt Println" 
