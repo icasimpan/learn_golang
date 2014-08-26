@@ -1,0 +1,6 @@
+Error message
+
+HINT: I made a mistake in calling fmt.println (note it should be "fmt.Println"):
+
+# command-line-arguments ./src0002_mycode.go:6: cannot refer to unexported name fmt.println
+./src0002_mycode.go:6: undefined: fmt.println
